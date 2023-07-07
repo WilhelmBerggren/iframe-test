@@ -227,3 +227,8 @@
     transform: rotate(0deg);
   }
 }
+
+.iframe {
+  min-height: 800px;
+  min-width: 1200px;
+}
